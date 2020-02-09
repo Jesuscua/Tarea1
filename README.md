@@ -70,6 +70,10 @@
 
 #### The data stores are rectangles (sometimes with a vertical line in the symbol) and show where the required or produced data is stored in relation to the process.
 
-
+## Team
+### J esús Israel Cua Uicab
+### Santiago Daniel Molina Navarrete
+### Roger Argaez Cocom
+### Joel Chan Méndez
 _END_
 
